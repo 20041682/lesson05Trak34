@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\обучение\С#\lesson05\Trak34\obj\Debug\net6.0\Trak34.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\обучение\С#\lesson05\Trak34\obj\Debug\net6.0\Trak34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\обучение\С#\lesson05\Trak34\obj\Debug\net6.0\Trak34.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\обучение\С#\lesson05\Trak34\obj\Debug\net6.0\Trak34.AssemblyInfo.cs
+C:\Users\Роман\Desktop\обучение\С#\lesson05\Trak34\obj\Debug\net6.0\Trak34.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\обучение\С#\lesson05\Trak34\bin\Debug\net6.0\Trak34.exe
+C:\Users\Роман\Desktop\обучение\С#\lesson05\Trak34\bin\Debug\net6.0\Trak34.deps.json
+C:\Users\Роман\Desktop\обучение\С#\lesson05\Trak34\bin\Debug\net6.0\Trak34.runtimeconfig.json
+C:\Users\Роман\Desktop\обучение\С#\lesson05\Trak34\bin\Debug\net6.0\Trak34.dll
+C:\Users\Роман\Desktop\обучение\С#\lesson05\Trak34\bin\Debug\net6.0\Trak34.pdb
+C:\Users\Роман\Desktop\обучение\С#\lesson05\Trak34\obj\Debug\net6.0\Trak34.dll
+C:\Users\Роман\Desktop\обучение\С#\lesson05\Trak34\obj\Debug\net6.0\refint\Trak34.dll
+C:\Users\Роман\Desktop\обучение\С#\lesson05\Trak34\obj\Debug\net6.0\Trak34.pdb
+C:\Users\Роман\Desktop\обучение\С#\lesson05\Trak34\obj\Debug\net6.0\Trak34.genruntimeconfig.cache
+C:\Users\Роман\Desktop\обучение\С#\lesson05\Trak34\obj\Debug\net6.0\ref\Trak34.dll
